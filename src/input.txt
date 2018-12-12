@@ -1,0 +1,3 @@
+A=aB|bA
+B=aC|bB
+C=aA|bC

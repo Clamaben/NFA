@@ -1,0 +1,8 @@
+*ab
+ABA
+BCB
+CAC
+*ab
+ABA
+BCB
+CAC
